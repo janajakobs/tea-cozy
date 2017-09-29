@@ -132,6 +132,7 @@ nav span {
   display: block;
   background-image: url("../images/img-locations-background.jpg");
   height: 500px;
+  width: 1200px;
 }
 
 .places {
@@ -164,4 +165,23 @@ nav span {
 /* Third Box END */
 
 /* Footer */
+
+footer {
+  display: block;
+}
+
+.contact {
+  height: 200px;
+}
+
+.contact h2 {
+  margin: 0;
+  padding: 10px;
+}
+
+.copyright {
+  width: 1200px;
+  text-align: left;
+  margin-left: 20px;
+}
 /* Footer END */
